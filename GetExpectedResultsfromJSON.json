@@ -1,0 +1,11 @@
+{
+    " GetExpectedResultsfromJSON": {
+        "Brand": "Apple",
+        "Operating System": "iOS 17",
+        "RAM Memory Installed Size": "128 GB",
+        "Memory Storage Capacity": "128 GB",
+        "City": "Florida",
+        "Screen Size": "6.3 Inches",
+        "Experience": "26"
+    }
+}
